@@ -49,7 +49,7 @@ After the lunch I forgot to tip the waiter. That was the time, when my friend to
 
 What shall I do now?
 
-| № | Question                                     | Answer                                                                  |
+| # | Question                                     | Answer                                                                  |
 | - | -------------------------------------------- | ----------------------------------------------------------------------- |
 | 1 | When did Harry go to America?                | **Harry went to America last month.**                                   |
 | 2 | Who was shocked?                             | **Joe was shocked when Harry rang the doorbell on Saturday morning.**   |
