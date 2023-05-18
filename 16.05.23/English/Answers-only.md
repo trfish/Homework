@@ -1,4 +1,4 @@
-# 16.05.23 / English / Questions and answers
+# 16.05.23 / English / Answers only
 ## Revision
 
 ### Underline the proper verb
