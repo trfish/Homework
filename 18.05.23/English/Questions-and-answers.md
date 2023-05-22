@@ -53,6 +53,8 @@ In your letter:
 Write 100–140 words.  
 Remember the rules of letter writing.
 
+Answer:
+
     Dear Nancy,
 
     Thank you for your beautiful Christmas card. I really appreciated it. I celebrated the New Year with my family at home. We got together in a small group and enjoyed a delicious dinner together. The weather was quite chilly, but we still managed to light some fireworks and have a good time. As for my secret wish for next year, I hope to travel more.
@@ -75,6 +77,8 @@ Use the following plan:
 - express an opposing opinion and give 1–2 reasons for this opposing opinion
 - explain why you don’t agree with the opposing opinion
 - make a conclusion restating your position
+
+Answer:
 
     The statement "It is wrong to be strict with young children" is a topic that has been debated for a long time. Some people believe that being strict with children can have a negative impact on their development, while others argue that boundaries should be set and discipline should be disciplined. In this essay, I will express my opinion on this statement and give arguments to support it.
 
