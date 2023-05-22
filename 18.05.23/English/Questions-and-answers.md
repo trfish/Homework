@@ -31,15 +31,15 @@
 ## Раздел 2. Грамматика и лексика
 ### Прочитайте приведённые ниже тексты. Преобразуйте, если необходимо, слова, напечатанные заглавными буквами в конце строк, обозначенных номерами 19–25, так, чтобы они грамматически соответствовали содержанию текстов. Заполните пропуски полученными словами. Каждый пропуск соответствует отдельному заданию из группы 19–25.
 #### The name of Alaska
-19. Do you know the origin of the place name Alaska? The name Alaska comes from the Aleut word alaxsxaq, meaning “an object toward which the action of the sea is directed” – that is, the mainland.  
-20. It is also known as Alyeska, the “great land”, an Aleut word formed from the same root.  
-21. Its nicknames are the Land of the Midnight Sun and America’s Last Frontier. Its first nicknames were “Seward’s folly” and “Seward’s icebox” to laugh at the secretary of state who negotiated the purchase of Alaska from Russia, which was considered foolish at the time.  
+19. Do you know the origin of the place name Alaska? The name Alaska comes from the Aleut word alaxsxaq, **meaning** “an object toward which the action of the sea is directed” – that is, the mainland.  
+20. It is also known as Alyeska, the “great land”, an Aleut word **formed** from the same root.  
+21. Its nicknames are the Land of the Midnight Sun and America’s Last Frontier. Its first nicknames were “Seward’s folly” and “Seward’s icebox” to laugh at the secretary of state who negotiated the purchase of Alaska from Russia, which **was considered** foolish at the time.  
 
 #### A landmark for the new millennium
-22. Have you seen the photos of the London Eye? The London Eye is a giant observation wheel lacated in the Jubilee Gardens on the South Bank of the river Thames.  
-23. The structure designed by the architectural team of David Marks and Julia Barfield, husband and wife.  
-24. They submitted their idea for a large observation wheel as part of a competition to design a landmark for the new millennium. None of the entrants won the competition.  
-25. However, the couple pressed on and eventually got the backing of British Airways, who sponsored their project.  
+22. Have you seen the photos of the London Eye? The London Eye is a giant observation wheel **lacated** in the Jubilee Gardens on the South Bank of the river Thames.  
+23. The structure **designed** by the architectural team of David Marks and Julia Barfield, husband and wife.  
+24. They submitted their idea for a large observation wheel as part of a competition to design a landmark for the new millennium. None of the entrants **won** the competition.  
+25. However, the couple pressed on and eventually got the backing of British Airways, who sponsored **their** project.  
 
 
 ## Раздел 3. Письмо  
