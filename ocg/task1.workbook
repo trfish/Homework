@@ -18,19 +18,20 @@
 ### Примеры операторов поиска Google: (Нужны скришоты)
 
 1. **site**: Используется для поиска информации на конкретном веб-сайте. Например, "site:wiki.archlinux.org refind" найдет все страницы на Арч вики, содержащие "refind".
-![google operator example "site:"](assets/google-operator-site.png)
+![google operator example "site:"](assets/google-operator-'site'.png)
 
-2. **intitle**: Ограничивает результаты поиска страницами, в заголовке которых содержится указанный текст. Например, "intitle:рецепт пасты".
+2. **filetype**: Используется для поиска файлов конкретного типа. Например, "filetype:pdf freebsd handbook".
+![google operator example "filetype:pdf"](assets/google-operator-'filetype'.png)
 
-3. **filetype**: Используется для поиска файлов конкретного типа. Например, "filetype:pdf руководство пользователя".
-
-4. **- (минус)**: Исключает слово из результатов поиска. Например, "котики -щенки" найдет страницы о котиках, но не содержащие слово "щенки".
+3. **- (минус)**: Исключает слово из результатов поиска. Например, "котики -щенки" найдет страницы о котиках, но не содержащие слово "щенки".
 ![google operator example "boot"](assets/google-operator-'-'.png)
 ![google operator example "boot -silent"](assets/google-operator-'-silent'.png)
 
-5. **cache**: Показывает последнюю кешированную версию веб-страницы.
+4. **cache**: Показывает последнюю кешированную версию веб-страницы.
+![google operator example "cache:"](assets/google-operator-'cache'.png)
 
-6. **define**: Отображает определение слова или выражения.
+5. **define**: Отображает определение слова или выражения.
+![google operator example "define:"](assets/google-operator-'define'.png)
 
 
 ## Задание 2. Создание интеллект-карты по темам лекции.
@@ -38,7 +39,8 @@
 
 ![figma mind map](assets/figma-mind-map-search-systems.png)
 
-[Github](github.com/trfish/homework/ocg/task1.workbook)
+Github: github.com/trfish/homework/ocg/task1.workbook
+
 ---
 
 1. **Цифровое общество**
