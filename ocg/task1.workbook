@@ -29,6 +29,7 @@
 
 4. **cache**: Показывает последнюю кешированную версию веб-страницы.
 ![google operator example "cache:"](assets/google-operator-'cache'.png)
+...но sun уже никто не вернет...
 
 5. **define**: Отображает определение слова или выражения.
 ![google operator example "define:"](assets/google-operator-'define'.png)
